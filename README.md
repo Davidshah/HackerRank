@@ -4,4 +4,4 @@
 Repository to organize my work on [HackerRank](https://www.hackerrank.com/davidshah).
 
 ### Getting Started
-* Jupyter Notebooks contain problems and solutions.
+* Jupyter Notebooks contain solutions.
